@@ -1,4 +1,4 @@
-# Hi, I'm Yashvanth 👋
+# Hi, I'm Yashavanth 👋
 
 ### Aspiring Software Engineer | Machine Learning Enthusiast
 
