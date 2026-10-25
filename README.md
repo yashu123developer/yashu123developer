@@ -26,7 +26,7 @@ I'm passionate about building practical applications using Python, machine learn
 - **Web Applications:** Streamlit
 - **Tools:** VS Code, Git, GitHub
 
-## 🚀 Featured Project
+## 🚀 Featured Projec
 
 ### 🌧️ Rainfall Prediction Using Machine Learning
 
