@@ -1,52 +1,54 @@
-## Hi there 👋
-<!--
-**yashu123developer/yashu123developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi, I'm Yashvanth 👋
 
 ### Aspiring Software Engineer | Machine Learning Enthusiast
 
-I'm passionate about building practical applications using Python, machine learning, and web technologies. I enjoy learning new technologies and solving real-world problems through software development.
+Welcome to my GitHub profile! I'm passionate about software development, machine learning, and building practical applications that solve real-world problems.
 
-- 🔭 **Currently working on:** Rainfall Prediction Using Machine Learning
-- 🌱 **Currently learning:** Python, Machine Learning, and Web Development
-- 👯 **Looking to collaborate on:** Open-source and beginner-friendly projects
-- 💬 **Ask me about:** Python, Machine Learning basics, and Streamlit
-- 📫 **Email:** yashvanthggyashvanthgg@gmail.com
-- 🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/yashvanth-gg-254510353/)
+## 🚀 Currently Working On
 
----
+🌧️ **Rainfall Prediction Using Machine Learning**
+
+Developing a machine learning web application that predicts rainfall using weather data and provides prediction results through a Streamlit interface.
+
+## 🌱 Currently Learning
+
+- Python Programming
+- Machine Learning
+- Data Analysis
+- Web Application Development
+- Git and GitHub
 
 ## 🛠️ Technical Skills
 
-- **Programming:** Python
+- **Programming Language:** Python
 - **Machine Learning:** Scikit-learn
-- **Data Analysis:** Pandas, NumPy
-- **Web Applications:** Streamlit
-- **Tools:** VS Code, Git, GitHub
+- **Data Processing:** Pandas, NumPy
+- **Web Framework:** Streamlit
+- **Development Tools:** VS Code, Git, GitHub
 
-## 🚀 Featured Projec
+## 📌 Featured Project
 
 ### 🌧️ Rainfall Prediction Using Machine Learning
 
-A machine learning application that predicts rainfall using weather-related data.
+- **Objective:** Predict whether rainfall is likely based on weather information.
+- **Technologies:** Python, Pandas, NumPy, Scikit-learn, Streamlit.
+- **Key Features:** Weather data processing, machine learning predictions, and a user-friendly web interface.
 
-- **Language:** Python
-- **Libraries:** Pandas, NumPy, Scikit-learn
-- **Interface:** Streamlit
-- **Features:** Weather data input and rainfall prediction results
+🔗 [View My GitHub Repositories](https://github.com/yashu123developer?tab=repositories)
 
-**Project Repository:** Add your Rainfall Prediction GitHub repository link here.
+## 🎓 Learning & Certifications
+
+- Exploring AI and machine learning concepts.
+- Developing practical programming skills through projects.
+- Add your completed IBM certifications here with their exact names.
+
+## 🤝 Let's Connect
+
+- **GitHub:** [yashu123developer](https://github.com/yashu123developer)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/yashvanth-gg-254510353/)
+- **Email:** yashvanthggyashvanthgg@gmail.com
 
 ---
 
-## 🎓 Certifications & Learning
+⭐ Thanks for visiting my profile! I'm always eager to learn, build, and collaborate on interesting projects.
 
-- IBM AI / Machine Learning coursework — list the exact course or certificate you completed.
-- Continuously developing skills through hands-on projects and technical learning.
-
----
-
-## 📊 GitHub Profile
-
-Thanks for visiting my profile! I'm always interested in learning, building projects, and collaborating with other developers.
